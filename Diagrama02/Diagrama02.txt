@@ -1,0 +1,7 @@
+Crimonoso> idade, nome, cpf, tipode crime, arma, assassinato
+
+armas> força fisica, faca, arma de fogo
+
+Vitimas> idade, nome, cpf, tipo de crime
+
+crime> roubo, agressao fisica
